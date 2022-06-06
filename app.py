@@ -1,1 +1,1 @@
-echo "Hello world"
+print('Hello World for Jenkins Job')
