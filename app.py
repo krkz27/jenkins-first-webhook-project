@@ -1,1 +1,1 @@
-print('Hello Sikimusway :) ')
+print('I am not learning with Sikimusway :) ')
